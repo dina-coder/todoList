@@ -1,3 +1,3 @@
 # Запуск
- npm i
+ npm i  
  npm start
