@@ -1,0 +1,12 @@
+.container {
+  .label {
+    color: black;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+  }
+  .checked {
+    text-decoration: line-through;
+  }
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "text": "Сделать тестовое",
+        "isDone": false,
+        "children": [
+            {
+                "id": "4",
+                "text": "Написать данные",
+                "isDone": false,
+                "children": [
+                    {
+                        "id": "6",
+                        "text": "Определиться с структурой",
+                        "isDone": false,
+                        "children": []
+                    },
+                    {
+                        "id": "7",
+                        "text": " Заполнить json",
+                        "isDone": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "text": "Оформить дизайн",
+                "isDone": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "text": "Дописать резюме",
+        "isDone": false,
+        "children": []
+    },
+    {
+        "id": "3",
+        "text": "Получить оффер",
+        "isDone": false,
+        "children": []
+    } 
+]
